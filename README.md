@@ -57,8 +57,8 @@ using UnityEngine;
 
 ```
 ## Output:
+![Screenshot (1)](https://github.com/user-attachments/assets/b80876b0-9d88-4e46-a7f9-ac35c20df099)
 
-![Screenshot 2025-04-13 185712](https://github.com/user-attachments/assets/2a34b50f-42a2-4960-a61a-c029f8f5e172)
 
 ## Result:
 3D application for rotating the gaming objects in unity has been developed.
